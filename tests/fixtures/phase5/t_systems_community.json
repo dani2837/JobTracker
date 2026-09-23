@@ -1,0 +1,75 @@
+{
+  "id": "744000141235019",
+  "name": "Únete a nuestra Talent Community (m/f/d) / Join Our Talent Community  ",
+  "uuid": "30d2f018-9358-4c76-8fc8-a5f2d9a24c9f",
+  "jobId": "5f51f39d-6d10-4ce9-b838-cb8beee73ee3",
+  "jobAdId": "87da1237-4c4a-414d-b5f6-73849dfe91d9",
+  "defaultJobAd": true,
+  "refNumber": "REF1992S",
+  "company": {
+    "name": "T-Systems Iberia",
+    "identifier": "T-SystemsIberia"
+  },
+  "location": {
+    "city": "A Coruña, Barcelona, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla, Valencia, Barcelona",
+    "country": "es",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "A Coruña, Barcelona, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla, Valencia, Barcelona, , Spain"
+  },
+  "releasedDate": "2026-08-03T11:03:50.824Z",
+  "postingUrl": "https://jobs.smartrecruiters.com/T-SystemsIberia/744000141235019-unete-a-nuestra-talent-community-m-f-d-join-our-talent-community-",
+  "jobAd": {
+    "sections": {
+      "companyDescription": {
+        "title": "Company Description",
+        "text": ""
+      },
+      "jobDescription": {
+        "title": "Job Description",
+        "text": "<p><strong>¿No ves la posición que estás buscando?</strong></p><p><br>\nQueremos conocerte igualmente. Registra tu perfil y te contactaremos cuando surja una oportunidad acorde con tu experiencia en <strong>IA, Cloud, SAP, Ciberseguridad o Desarrollo de Software.</strong></p><p>✔<strong>&#xa0;¡Sé de las primeras personas consideradas para nuevas oportunidades!</strong></p><p>¡Déjanos tu cv!</p><p>&#xa0;</p><p>&#xa0;</p><p><strong>Can't find the position you're looking for?</strong></p><p>We’d still love to hear from you. Register your profile and we’ll contact you when an opportunity that matches your experience in <strong>AI, Cloud, SAP, Cybersecurity, or Software Development</strong> becomes available.</p><p>✔ <strong>Be among the first candidates considered for future opportunities.</strong></p><p><strong>Send us your cv!</strong></p><p>&#xa0;</p>"
+      },
+      "qualifications": {
+        "title": "Qualifications",
+        "text": ""
+      },
+      "additionalInformation": {
+        "title": "Additional Information",
+        "text": ""
+      },
+      "videos": {
+        "title": "Videos To Watch",
+        "urls": [
+          "https://www.youtube.com/watch?v=IRwdvSeuYZU"
+        ]
+      }
+    }
+  },
+  "active": true,
+  "visibility": "PUBLIC",
+  "industry": {
+    "id": "it_and_services",
+    "label": "Information Technology And Services"
+  },
+  "function": {
+    "id": "information_technology",
+    "label": "Information Technology"
+  },
+  "department": {
+    "id": 8602891,
+    "label": "H - Human Resources (34001772)"
+  },
+  "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+  },
+  "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+  },
+  "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+  }
+}
